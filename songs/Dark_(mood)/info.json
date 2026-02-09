@@ -1,0 +1,12 @@
+{
+    "title": "Darkside",
+    "description": "Dark Songs for you",
+    "artist": "Dark Mood Artists",
+    "album": "Dark Mood Collection",
+    "year": 2023,
+    "genre": "Pop",
+    "duration": "4:15",
+    "mood": "Dark",
+    "cover_image": "cover.jpg",
+    "audio_file": "Darkside.mp3"
+}

@@ -1,0 +1,8 @@
+# Ignore mp3 files
+*.mp3
+
+# Ignore node modules if any
+node_modules/
+
+# Ignore system junk
+.DS_Store
