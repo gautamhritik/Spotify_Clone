@@ -21,27 +21,6 @@ This project supports dynamic album loading, global search, keyboard controls, a
 
 ---
 
-## 📁 Project Structure
-
-Spotify-Clone/
-│
-├── index.html
-├── css/
-│ ├── style.css
-│ └── utility.css
-├── script.js
-├── img/
-└── songs/
-├── Album1/
-│ ├── cover.jpg / cover.png
-│ ├── song1.mp3
-│ └── song2.mp3
-└── Album2/
-├── cover.png
-└── track.mp3
-
----
-
 ## ⚠ Important Notice
 
 **No songs/audio files are included in this repository** to reduce size and avoid copyright issues.  
